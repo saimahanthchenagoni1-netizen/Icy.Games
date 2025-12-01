@@ -1,0 +1,7 @@
+{
+  "name": "ICY - Unblocked Games",
+  "description": "The coolest destination for unblocked games. Featuring a frost-bitten design, instant play, and an intelligent winter assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
